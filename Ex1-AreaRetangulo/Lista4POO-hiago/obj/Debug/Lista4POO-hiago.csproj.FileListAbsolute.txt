@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Lista4POO-hiago\Lista4POO-hiago\bin\Debug\Lista4POO-hiago.exe.config
+C:\Users\User\source\repos\Lista4POO-hiago\Lista4POO-hiago\bin\Debug\Lista4POO-hiago.exe
+C:\Users\User\source\repos\Lista4POO-hiago\Lista4POO-hiago\bin\Debug\Lista4POO-hiago.pdb
+C:\Users\User\source\repos\Lista4POO-hiago\Lista4POO-hiago\obj\Debug\Lista4POO-hiago.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Lista4POO-hiago\Lista4POO-hiago\obj\Debug\Lista4POO-hiago.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lista4POO-hiago\Lista4POO-hiago\obj\Debug\Lista4POO-hiago.exe
+C:\Users\User\source\repos\Lista4POO-hiago\Lista4POO-hiago\obj\Debug\Lista4POO-hiago.pdb
