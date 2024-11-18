@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Ex10-CalcRetangulo\Ex10-CalcRetangulo\bin\Debug\Ex10-CalcRetangulo.exe.config
+C:\Users\User\source\repos\Ex10-CalcRetangulo\Ex10-CalcRetangulo\bin\Debug\Ex10-CalcRetangulo.exe
+C:\Users\User\source\repos\Ex10-CalcRetangulo\Ex10-CalcRetangulo\bin\Debug\Ex10-CalcRetangulo.pdb
+C:\Users\User\source\repos\Ex10-CalcRetangulo\Ex10-CalcRetangulo\obj\Debug\Ex10-CalcRetangulo.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Ex10-CalcRetangulo\Ex10-CalcRetangulo\obj\Debug\Ex10-CalcRetangulo.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Ex10-CalcRetangulo\Ex10-CalcRetangulo\obj\Debug\Ex10-CalcRetangulo.exe
+C:\Users\User\source\repos\Ex10-CalcRetangulo\Ex10-CalcRetangulo\obj\Debug\Ex10-CalcRetangulo.pdb
