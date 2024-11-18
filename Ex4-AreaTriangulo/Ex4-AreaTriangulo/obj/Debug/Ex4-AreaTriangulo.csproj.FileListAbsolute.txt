@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Ex4-AreaTriangulo\Ex4-AreaTriangulo\obj\Debug\Ex4-AreaTriangulo.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Ex4-AreaTriangulo\Ex4-AreaTriangulo\obj\Debug\Ex4-AreaTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Ex4-AreaTriangulo\Ex4-AreaTriangulo\bin\Debug\Ex4-AreaTriangulo.exe.config
+C:\Users\User\source\repos\Ex4-AreaTriangulo\Ex4-AreaTriangulo\bin\Debug\Ex4-AreaTriangulo.exe
+C:\Users\User\source\repos\Ex4-AreaTriangulo\Ex4-AreaTriangulo\bin\Debug\Ex4-AreaTriangulo.pdb
+C:\Users\User\source\repos\Ex4-AreaTriangulo\Ex4-AreaTriangulo\obj\Debug\Ex4-AreaTriangulo.exe
+C:\Users\User\source\repos\Ex4-AreaTriangulo\Ex4-AreaTriangulo\obj\Debug\Ex4-AreaTriangulo.pdb
