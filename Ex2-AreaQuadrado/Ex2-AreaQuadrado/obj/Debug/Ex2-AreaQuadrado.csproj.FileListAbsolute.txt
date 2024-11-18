@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Ex2-AreaQuadrado\Ex2-AreaQuadrado\bin\Debug\Ex2-AreaQuadrado.exe.config
+C:\Users\User\source\repos\Ex2-AreaQuadrado\Ex2-AreaQuadrado\bin\Debug\Ex2-AreaQuadrado.exe
+C:\Users\User\source\repos\Ex2-AreaQuadrado\Ex2-AreaQuadrado\bin\Debug\Ex2-AreaQuadrado.pdb
+C:\Users\User\source\repos\Ex2-AreaQuadrado\Ex2-AreaQuadrado\obj\Debug\Ex2-AreaQuadrado.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Ex2-AreaQuadrado\Ex2-AreaQuadrado\obj\Debug\Ex2-AreaQuadrado.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Ex2-AreaQuadrado\Ex2-AreaQuadrado\obj\Debug\Ex2-AreaQuadrado.exe
+C:\Users\User\source\repos\Ex2-AreaQuadrado\Ex2-AreaQuadrado\obj\Debug\Ex2-AreaQuadrado.pdb
