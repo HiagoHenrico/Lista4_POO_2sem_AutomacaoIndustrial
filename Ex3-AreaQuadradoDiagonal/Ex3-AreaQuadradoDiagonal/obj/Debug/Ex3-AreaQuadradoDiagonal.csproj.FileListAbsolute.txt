@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Ex3-AreaQuadradoDiagonal\Ex3-AreaQuadradoDiagonal\bin\Debug\Ex3-AreaQuadradoDiagonal.exe.config
+C:\Users\User\source\repos\Ex3-AreaQuadradoDiagonal\Ex3-AreaQuadradoDiagonal\bin\Debug\Ex3-AreaQuadradoDiagonal.exe
+C:\Users\User\source\repos\Ex3-AreaQuadradoDiagonal\Ex3-AreaQuadradoDiagonal\bin\Debug\Ex3-AreaQuadradoDiagonal.pdb
+C:\Users\User\source\repos\Ex3-AreaQuadradoDiagonal\Ex3-AreaQuadradoDiagonal\obj\Debug\Ex3-AreaQuadradoDiagonal.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Ex3-AreaQuadradoDiagonal\Ex3-AreaQuadradoDiagonal\obj\Debug\Ex3-AreaQuadradoDiagonal.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Ex3-AreaQuadradoDiagonal\Ex3-AreaQuadradoDiagonal\obj\Debug\Ex3-AreaQuadradoDiagonal.exe
+C:\Users\User\source\repos\Ex3-AreaQuadradoDiagonal\Ex3-AreaQuadradoDiagonal\obj\Debug\Ex3-AreaQuadradoDiagonal.pdb
