@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Ex6-MilhaMarMetro\Ex6-MilhaMarMetro\bin\Debug\Ex6-MilhaMarMetro.exe.config
+C:\Users\User\source\repos\Ex6-MilhaMarMetro\Ex6-MilhaMarMetro\bin\Debug\Ex6-MilhaMarMetro.exe
+C:\Users\User\source\repos\Ex6-MilhaMarMetro\Ex6-MilhaMarMetro\bin\Debug\Ex6-MilhaMarMetro.pdb
+C:\Users\User\source\repos\Ex6-MilhaMarMetro\Ex6-MilhaMarMetro\obj\Debug\Ex6-MilhaMarMetro.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Ex6-MilhaMarMetro\Ex6-MilhaMarMetro\obj\Debug\Ex6-MilhaMarMetro.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Ex6-MilhaMarMetro\Ex6-MilhaMarMetro\obj\Debug\Ex6-MilhaMarMetro.exe
+C:\Users\User\source\repos\Ex6-MilhaMarMetro\Ex6-MilhaMarMetro\obj\Debug\Ex6-MilhaMarMetro.pdb
