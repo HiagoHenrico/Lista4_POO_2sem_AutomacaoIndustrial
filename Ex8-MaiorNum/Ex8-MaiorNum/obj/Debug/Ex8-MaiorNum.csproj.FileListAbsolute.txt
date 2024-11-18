@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Ex8-MaiorNum\Ex8-MaiorNum\bin\Debug\Ex8-MaiorNum.exe.config
+C:\Users\User\source\repos\Ex8-MaiorNum\Ex8-MaiorNum\bin\Debug\Ex8-MaiorNum.exe
+C:\Users\User\source\repos\Ex8-MaiorNum\Ex8-MaiorNum\bin\Debug\Ex8-MaiorNum.pdb
+C:\Users\User\source\repos\Ex8-MaiorNum\Ex8-MaiorNum\obj\Debug\Ex8-MaiorNum.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Ex8-MaiorNum\Ex8-MaiorNum\obj\Debug\Ex8-MaiorNum.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Ex8-MaiorNum\Ex8-MaiorNum\obj\Debug\Ex8-MaiorNum.exe
+C:\Users\User\source\repos\Ex8-MaiorNum\Ex8-MaiorNum\obj\Debug\Ex8-MaiorNum.pdb
