@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Ex7-ConversaoDolar\Ex7-ConversaoDolar\bin\Debug\Ex7-ConversaoDolar.exe.config
+C:\Users\User\source\repos\Ex7-ConversaoDolar\Ex7-ConversaoDolar\bin\Debug\Ex7-ConversaoDolar.exe
+C:\Users\User\source\repos\Ex7-ConversaoDolar\Ex7-ConversaoDolar\bin\Debug\Ex7-ConversaoDolar.pdb
+C:\Users\User\source\repos\Ex7-ConversaoDolar\Ex7-ConversaoDolar\obj\Debug\Ex7-ConversaoDolar.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Ex7-ConversaoDolar\Ex7-ConversaoDolar\obj\Debug\Ex7-ConversaoDolar.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Ex7-ConversaoDolar\Ex7-ConversaoDolar\obj\Debug\Ex7-ConversaoDolar.exe
+C:\Users\User\source\repos\Ex7-ConversaoDolar\Ex7-ConversaoDolar\obj\Debug\Ex7-ConversaoDolar.pdb
