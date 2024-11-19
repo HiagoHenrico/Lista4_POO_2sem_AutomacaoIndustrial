@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Ex13-TrianguloRetangulo\Ex13-TrianguloRetangulo\obj\Debug\Ex13-TrianguloRetangulo.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Ex13-TrianguloRetangulo\Ex13-TrianguloRetangulo\obj\Debug\Ex13-TrianguloRetangulo.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Ex13-TrianguloRetangulo\Ex13-TrianguloRetangulo\bin\Debug\Ex13-TrianguloRetangulo.exe.config
+C:\Users\User\source\repos\Ex13-TrianguloRetangulo\Ex13-TrianguloRetangulo\bin\Debug\Ex13-TrianguloRetangulo.exe
+C:\Users\User\source\repos\Ex13-TrianguloRetangulo\Ex13-TrianguloRetangulo\bin\Debug\Ex13-TrianguloRetangulo.pdb
+C:\Users\User\source\repos\Ex13-TrianguloRetangulo\Ex13-TrianguloRetangulo\obj\Debug\Ex13-TrianguloRetangulo.exe
+C:\Users\User\source\repos\Ex13-TrianguloRetangulo\Ex13-TrianguloRetangulo\obj\Debug\Ex13-TrianguloRetangulo.pdb
