@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Ex11-Peo\Ex11-Peo\bin\Debug\Ex11-Peo.exe.config
+C:\Users\User\source\repos\Ex11-Peo\Ex11-Peo\bin\Debug\Ex11-Peo.exe
+C:\Users\User\source\repos\Ex11-Peo\Ex11-Peo\bin\Debug\Ex11-Peo.pdb
+C:\Users\User\source\repos\Ex11-Peo\Ex11-Peo\obj\Debug\Ex11-Peo.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Ex11-Peo\Ex11-Peo\obj\Debug\Ex11-Peo.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Ex11-Peo\Ex11-Peo\obj\Debug\Ex11-Peo.exe
+C:\Users\User\source\repos\Ex11-Peo\Ex11-Peo\obj\Debug\Ex11-Peo.pdb
